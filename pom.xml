@@ -4,7 +4,7 @@
 	<name>sesam-tools</name>
 	<description>SeSAM Tools</description>
 	<packaging>jar</packaging>
-	<version>2.0.0-SNAPSHOT</version>
+	<version>2.0.0</version>
 
 	<parent>
 		<groupId>sk.seges.sesam</groupId>
