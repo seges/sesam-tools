@@ -1,0 +1,6 @@
+= How to run JNDI creator =
+
+* provide VM arguments defining location of JNDI type and output
+** -Djava.naming.factory.initial=com.sun.jndi.fscontext.RefFSContextFactory -Djava.naming.provider.url=file://z:/jndi
+* run JNDICreator with these parameters
+* or use jndi-create.sh
